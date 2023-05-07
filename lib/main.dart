@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
                   color: Colors.teal[100]
+                  
                 ),
               ),
               Card(
